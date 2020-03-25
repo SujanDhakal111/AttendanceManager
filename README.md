@@ -1,3 +1,2 @@
 # Attendance Manager
-
-Yet Another Attendance Manager, made with flutter!
+Attendance Manager made with flutter!
